@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background: #333;
+    color: aliceblue;
+}
+
+.container {
+    display: flex;
+    flex-direction: column 1fr 1fr;
+    justify-content: space-around;
+    padding-top: 150px;
+    text-align: center;
+    font-style: italic;
+    font-size: 2rem;
+    
+}
+
+footer {
+    text-align: center;
+    font-weight: bold;
+    padding-top: 150px;
+}
